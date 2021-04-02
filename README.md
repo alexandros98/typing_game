@@ -26,5 +26,5 @@ Download the latest version and install it on your computer.
 python pip install pygame*
 ```
 
-##About
+## About
 The game generates random words taken from a .txt file(words.txt) taken from [here](https://github.com/dwyl/english-words).
