@@ -43,3 +43,6 @@ At the bottom of the page usefull(?) information is displayed:
 * Each level will add an extra word and increase the text speed slightly.
 * Pressing the Escape button will "un-focus" the word you are typing and let you select a new one.
 * Pressing the Tab button will change focus (It will cycle between the current words on the screen).
+
+## A screenshot of the game:
+![screenshot](/screenshot.PNG)
