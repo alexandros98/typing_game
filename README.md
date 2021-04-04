@@ -28,3 +28,18 @@ python pip install pygame*
 
 ## About
 The game generates random words taken from a .txt file(words.txt) taken from [here](https://github.com/dwyl/english-words).
+At the bottom of the page usefull(?) information is displayed:
+* Score(Total words typed before exiting the screen.)
+* Time (Displays how many ~~hours~~minutes you wasted on this game.)
+* Level (The current level.)
+* WPM (Words per minute)
+* Missed (How many words you missed.)
+
+**Gameplay(?)**
+* Pressing a a letter will "focus" on a word.
+* Pressing all the correct letters,in sequence,you complete the focused word and earn a point.
+* If you miss a word,it will disapear taking it's point with it.
+* By typing all the words on the screen will advance you to the next level.
+* Each level will add an extra word and increase the text speed slightly.
+* Pressing the Escape button will "un-focus" the word you are typing and let you select a new one.
+* Pressing the Tab button will change focus (It will cycle between the current words on the screen).
